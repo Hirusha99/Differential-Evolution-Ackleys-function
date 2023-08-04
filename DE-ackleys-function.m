@@ -1,8 +1,3 @@
-%-------------------------------------------------------------------------------
-% Group 1 - Implementation of differential evolution to solve ackelys function
-% index - AS2019566, AS2019574 ,AS2019358, AS2019554
-%-------------------------------------------------------------------------------
-
 %------------------------------------------------
 % seperate functions -> mutation, crossover
 %          setting boundries, selection,
